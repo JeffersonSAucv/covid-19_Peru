@@ -1,6 +1,6 @@
 # coronavirus_peru
 
-A new Flutter project.
+Aplicacion de flutter para listar datos de coronavirus en Peru,  API utilizada https://wuhan-coronavirus-api.laeyoung.endpoint.ainize.ai/jhu-edu/latest?iso2=PE
 
 ## Getting Started
 
